@@ -1,4 +1,4 @@
-<img src="https://files.realpython.com/media/Intro-to-Exploratory-Data-Analysis-With-Pandas_Watermarked.81a7d7df468f.jpg" alt="Berkay Sarpkaya" width="800" height="300" align="center">
+<img src="https://spectrum.ieee.org/media-library/a-photo-illustration-showing-an-artificial-network-and-computer-code.jpg?id=29854895&width=1200&height=600&coordinates=0%2C254%2C0%2C254" alt="Berkay Sarpkaya" width="800" height="300" align="center">
 
 <h1 align="center">Hi 👋, I'm Berkay Sarpkaya</h1>
 <h3 align="center">A passionate data scientist, a self-taught one.</h3>
