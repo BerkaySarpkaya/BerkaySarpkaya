@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Algorithms**
 
-- 💬 Ask me about **Pandas, Seaborn, Scikit_learn and Tensorflow**
+- 💬 Ask me about **Pandas, Seaborn, Scikit_Learn and Tensorflow**
 
 - 📫 How to reach me **berkay.sarpkaya1@gmail.com**
 
